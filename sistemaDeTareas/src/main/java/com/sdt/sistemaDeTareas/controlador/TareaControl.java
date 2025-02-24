@@ -58,4 +58,8 @@ public class TareaControl implements Initializable {
         tareaLista.addAll(tServicio.listarTareas());
         tablaID.setItems(tareaLista);
     }
+
+    private void AgregarTarea(){
+
+    }
 }
